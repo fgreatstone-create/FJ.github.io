@@ -1,1 +1,6 @@
 #include <io stream>
+
+main()
+{
+std::cout<<"FJ main"
+}
